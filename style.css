@@ -2,9 +2,9 @@
   font-family: "TT Lakes";
   src: local("TT Lakes"), local("TT Lakes Light"),
     local("TTLakes-Bold")
-      url("../Верстка_1.3_v2/font-family/TTLakes-Regular.woff2") format("woff2"),
-    url("../Верстка_1.3_v2/font-family/TTLakes-Medium.woff2") format("woff2"),
-    url("../Верстка_1.3_v2/font-family/TTLakes-Bold.woff2") format("woff2");
+      url("font-family/TTLakes-Regular.woff2") format("woff2"),
+    url("font-family/TTLakes-Medium.woff2") format("woff2"),
+    url("font-family/TTLakes-Bold.woff2") format("woff2");
 }
 
 .case {
@@ -218,7 +218,7 @@
   cursor: pointer;
   font-family: "TT Lakes Light";
   font-size: 16px;
-  list-style-image: url(/files/img/icon3.png);
+  list-style-image: url(img/icon3.png);
 }
 @media (max-width: 794px) {
   .mainSection__span_forTablet,
