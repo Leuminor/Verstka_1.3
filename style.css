@@ -53,6 +53,7 @@
   min-width: 2px;
   height: 32px;
   min-height: 32px;
+  background-color: rgba(248, 248, 248, 1);
 }
 
 .spisokOff {
