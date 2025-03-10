@@ -214,6 +214,10 @@
     margin-right: 0;
   }
 }
+
+.spoiler_position {
+  margin-bottom: 16px;
+}
 .spoiler__name {
   padding: 0 16px;
   cursor: pointer;
